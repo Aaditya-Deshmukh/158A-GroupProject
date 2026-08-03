@@ -2,11 +2,11 @@
 
 ## Group Information
 
-**Group Number:** [ADD GROUP NUMBER]
+**Group Number:** Group #6
 
 **Group Members:**
-- [MEMBER NAME]
-- [MEMBER NAME]
+- Aaditya Deshmukh
+- Guojian Chen
 
 ## Project Overview
 
